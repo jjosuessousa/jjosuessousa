@@ -4,7 +4,7 @@
 </p>
 
 ```yaml
-nome: José Pereira de Sousa
+nome: Josué Pereira de Sousa
 👨‍💻 posição: Estudante e Desenvolvedor em formação
 🎯 foco: Desenvolvimento Web | Banco de Dados | redes 
 📚 estudando: JavaScript, Python, Git/GitHub, banco de dados, redes
